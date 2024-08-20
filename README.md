@@ -4,6 +4,7 @@ Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and 
 
 ### 👨‍💻 About Me
 
+- **Expected graduation date 2024**
 - **CS Student @ UTEP** | 4.0 GPA
 - **Certifications:**
   - Meta Front-End
