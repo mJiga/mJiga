@@ -4,10 +4,6 @@ Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and 
 
 ### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://i.imgur.com/dvhF7Qz.gif" alt="Coding GIF" width="300">
-</div>
-
 - **CS Student @ UTEP** | 4.0 GPA
 - **Certifications:**
   - Meta Front-End
