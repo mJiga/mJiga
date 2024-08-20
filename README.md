@@ -1,4 +1,4 @@
-## 🌟 Guillermo Jimenez | Memo
+## 🌟 Guillermo Jimenez | Memo 😎
 
 Hey there! I am Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹 | Based in El Paso, Texas. 📍
 
@@ -10,10 +10,10 @@ Hey there! I am Memo, a passionate **Full-Stack Developer Student by night** and
 <div>
   <ul>
     <li>🌱 I'm currently learning: Computer Science and Leadership</li>
-    <li>💼 I’m currently open to: SWE Job/Internship opportunities. <a href="[your-resume-link](https://drive.google.com/file/d/1h-xk105jlcppU9crP9hqvHqD1IDXk4zV/view?usp=sharing)">SEE MY RESUME</a></li>
+    <li>💼 I’m currently open to: SWE Job/Internship opportunities. <a href="https://drive.google.com/file/d/1h-xk105jlcppU9crP9hqvHqD1IDXk4zV/view?usp=sharing">Check my resume out ⭐/a></li>
   </ul>
 </div>
 
 ### 🤝 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Memo%20Jimenez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermojiga/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Jimenez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillermojiga/)
 - [My Website](https://mjiga.github.io/memoDev/)
