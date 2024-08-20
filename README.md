@@ -1,5 +1,4 @@
 ## 🌟 Guillermo Jimenez | Memo
-## I am Guillermo Jimenez
 
 Hey there! I am Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹 | Based in El Paso, Texas. 📍
 
