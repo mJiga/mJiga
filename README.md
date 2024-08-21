@@ -1,7 +1,7 @@
 ## 🌟 Guillermo Jimenez | Memo 😎
 
 <div align="center">
-  <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" alt="Coding Gif" width="300">
+  <img src="[https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW43Z3ZwamU5eDQ4ZnN0cnFoOWJobzlnMjJkZjdvbGFvbGo5YWcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" alt="Coding Gif" width="300">
 </div>
 
 Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹, based in the vibrant city of El Paso, Texas. 📍
