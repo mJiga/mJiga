@@ -1,7 +1,7 @@
 ## 🌟 Guillermo Jimenez | Memo 😎
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btNRptqBgLSKR2w/giphy.gif" alt="Coding Gif" width="300">
+  <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" alt="Coding Gif" width="300">
 </div>
 
 Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹, based in the vibrant city of El Paso, Texas. 📍
@@ -28,12 +28,6 @@ Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and 
 ```
 JavaScript | TypeScript | MongoDB | Express | React | Node.js | Firebase | Tailwind
 ```
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjiga&show_icons=true&theme=radical" alt="Memo's GitHub Stats" width="450">
-</div>
 
 ### 🤝 Let's Connect!
 
