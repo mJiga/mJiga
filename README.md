@@ -1,23 +1,38 @@
 ## 🌟 Guillermo Jimenez | Memo 😎
 
-Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹, based in El Paso, Texas. 📍
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btNRptqBgLSKR2w/giphy.gif" alt="Coding Gif" width="300">
+</div>
+
+Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹, based in the vibrant city of El Paso, Texas. 📍
 
 ### 👨‍💻 About Me
 
-- **Expected graduation date May 2027**
-- **CS Student @ UTEP** | 4.0 GPA
+- **Expected graduation date:** May 2027 🎓
+- **CS Student @ UTEP** | 4.0 GPA 🏆
 - **Certifications:**
-  - Meta Front-End
-  - Harvard CS50
-  - Generative AI
-  - EPCF Microsoft Innovation Hub
-- **Tech Stack:** JavaScript, TypeScript, MongoDB, Express, React, Node.js, Firebase, Tailwind
+  - Meta Front-End 💻
+  - Harvard CS50 🔍
+  - Generative AI 🤖
+  - EPCF Microsoft Innovation Hub 🌐
 
 <div>
   <ul>
-    <li>🌱 I'm currently learning: Computer Science and Leadership</li>
-    <li>💼 I'm currently open to: SWE Job/Internship opportunities. <a href="https://drive.google.com/file/d/1h-xk105jlcppU9crP9hqvHqD1IDXk4zV/view?usp=sharing">Check my resume out! ⭐</a></li>
+    <li>🌱 I'm currently learning: Computer Science and Leadership 🧠</li>
+    <li>💼 I'm currently open to: SWE Job/Internship opportunities. <a href="https://drive.google.com/file/d/1h-xk105jlcppU9crP9hqvHqD1IDXk4zV/view?usp=sharing">Check out my resume! ⭐</a></li>
   </ul>
+</div>
+
+### 🔧 Tech Stack
+
+```
+JavaScript | TypeScript | MongoDB | Express | React | Node.js | Firebase | Tailwind
+```
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjiga&show_icons=true&theme=radical" alt="Memo's GitHub Stats" width="450">
 </div>
 
 ### 🤝 Let's Connect!
@@ -33,4 +48,4 @@ Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and 
 
 ### 🎉 Fun Fact
 
-When I'm not coding or playing the piano, I'm spending the day with my pug and my cat, I love them! 🐶😺
+When I'm not coding or playing the piano, you can find me spending quality time with my pug, Luna, and my cat, Mochi. They're the cutest co-pilots a guy could ask for! 🐶😺
