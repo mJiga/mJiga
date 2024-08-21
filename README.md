@@ -1,7 +1,7 @@
-[## 🌟 Guillermo Jimenez | Memo 😎
+## 🌟 Guillermo Jimenez | Memo 😎
 
 <div align="center">
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndXZjbnB1MDE3Y2t2bDN3ZWM1cWRjNmZnOGlrYnZjcHMxaHlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif'>
+  <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" alt="Coding Gif" width="300">
 </div>
 
 Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹, based in the vibrant city of El Paso, Texas. 📍
@@ -42,5 +42,4 @@ JavaScript | TypeScript | MongoDB | Express | React | Node.js | Firebase | Tailw
 
 ### 🎉 Fun Fact
 
-When I'm not coding or playing the piano, you can find me spending quality time with my pug, Luna, and my cat, Mochi. They're the cutest co-pilots a guy could ask for! 🐶😺
-](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndXZjbnB1MDE3Y2t2bDN3ZWM1cWRjNmZnOGlrYnZjcHMxaHlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
+When I'm not coding or playing the piano, you can find me spending quality time with my pug, P. Nacho, and my cat, Milo. They're the cutest co-pilots a guy could ask for! 🐶😺
