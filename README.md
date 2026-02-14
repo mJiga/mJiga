@@ -1,45 +1,81 @@
-## 🌟 Guillermo Jimenez | Memo 😎
+<h1 align="center">Hey, I'm Guillermo Jimenez (Memo) 👋</h1>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndXZjbnB1MDE3Y2t2bDN3ZWM1cWRjNmZnOGlrYnZjcHMxaHlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding Gif" width="300">
-</div>
+<p align="center">
+  <strong>Software Engineer · Concert Pianist</strong>
+</p>
 
-Hey there! I'm Memo, a passionate **Full-Stack Developer Student by night** and **concert pianist by day** 🎹, based in the vibrant city of El Paso, Texas. 📍
+<p align="center">
+  <a href="https://mjiga.github.io/memoDev/">
+    <img src="https://img.shields.io/badge/portfolio-memo.dev-81B29A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/guillermojiga">
+    <img src="https://img.shields.io/badge/LinkedIn-guillermojiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guillermojiga10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guillermojiga10-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### 👨‍💻 About Me
+---
 
-- **Expected graduation date:** May 2027 🎓
-- **CS Student @ UTEP** | 4.0 GPA 🏆
-- **Certifications:**
-  - Meta Front-End 💻
-  - Harvard CS50 🔍
-  - Generative AI 🤖
-  - EPCF Microsoft Innovation Hub 🌐
+### 🎓 About Me
 
-<div>
-  <ul>
-    <li>🌱 I'm currently learning: Computer Science and Leadership 🧠</li>
-    <li>💼 I'm currently open to: SWE Job/Internship opportunities. <a href="https://drive.google.com/file/d/1h-xk105jlcppU9crP9hqvHqD1IDXk4zV/view?usp=sharing">Check out my resume! ⭐</a></li>
-  </ul>
-</div>
+- 📍 Based in **El Paso, TX**
+- 🎓 **Computer Science** @ UTEP · Class of **2027**
+- 🎹 Concert pianist — performing across my community when I'm not writing code
+
+---
+
+### 💼 Experience
+
+| Role                     | Company                                                     |
+| ------------------------ | ----------------------------------------------------------- |
+| **Incoming SWE Intern**  | Microsoft                                                   |
+| **Prev Explorer Intern** | Microsoft                                                   |
+| **SWE Intern**           | [UTEP Hunt Institute](https://www.utep.edu/hunt-institute/) |
+
+---
 
 ### 🔧 Tech Stack
 
-```
-JavaScript | TypeScript | MongoDB | Express | React | Node.js | Firebase | Tailwind
-```
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MCP-81B29A?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-### 🤝 Let's Connect!
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/guillermojiga/">
-    <img src="https://img.shields.io/badge/LinkedIn-Guillermo%20Jimenez-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-  <a href="https://mjiga.github.io/memoDev/">
-    <img src="https://img.shields.io/badge/Website-mjiga.github.io/memoDev-brightgreen?style=flat&logo=google-chrome" alt="Website Badge">
-  </a>
-</div>
+### 🚀 Featured Projects
 
-### 🎉 Fun Fact
+**[Jarv](https://github.com/mJiga/jarv)** — Personal finance MCP server & LLM agent that converts natural language into structured financial commands, powered by Notion.  
+`MCP` `TypeScript` `Node.js` `Express` `Notion`
 
-When I'm not coding or playing the piano, you can find me spending quality time with my pug, P. Nacho, and my cat, Milo. They're the cutest co-pilots a guy could ask for! 🐶😺
+**[Asegurados Data Pipeline](https://www.utep.edu/hunt-institute/)** — Automated wage data ETL pipeline for the Hunt Institute. Published in their Newsletter & White Paper.  
+`Python` `FastAPI` `Docker` `Redis` `React` `TypeScript`
+
+**[Trada](https://github.com/mJiga/trada_webApp)** — Trading hub social media platform — create & share stock predictions with AI in real-time.  
+`React` `Firebase` `TypeScript` `Tailwind`
+
+---
+
+### 🌐 Portfolio
+
+Check out my full portfolio at **[memo.dev](https://mjiga.github.io/memoDev/)** — built with React, TypeScript, Tailwind, and Framer Motion.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mJiga&show_icons=true&theme=default&hide_border=true&title_color=81B29A&icon_color=81B29A&text_color=3D405B&bg_color=F5F2EA" alt="GitHub Stats" />
+</p>
