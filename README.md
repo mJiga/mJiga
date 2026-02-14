@@ -75,7 +75,3 @@
 Check out my full portfolio at **[memo.dev](https://mjiga.github.io/memoDev/)** — built with React, TypeScript, Tailwind, and Framer Motion.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mJiga&show_icons=true&theme=default&hide_border=true&title_color=81B29A&icon_color=81B29A&text_color=3D405B&bg_color=F5F2EA" alt="GitHub Stats" />
-</p>
